@@ -106,6 +106,3 @@ La disponibilidad de cada stream depende del proveedor y de la conexión de red.
 - La reproducción está implementada para la actividad principal y no incluye todavía un servicio de reproducción en segundo plano ni controles de notificación.
 - El APK debug está destinado a pruebas y no a distribución pública.
 
-## Licencia
-
-Este proyecto se encuentra en etapa de MVP. La licencia y las condiciones de distribución deben definirse antes de publicar la aplicación.
